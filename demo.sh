@@ -12,4 +12,8 @@ mkdir l
 top
 df -h
 rmdir k
-:
+ll
+ls
+ls -a
+top
+
